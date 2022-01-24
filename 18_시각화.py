@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 29 14:14:18 2021
-
-@author: shinhee
-"""
-
-# tlrkrghk
+# 시각화
 c
 
 pd.read_csv("../data/cancer_test.csv")
